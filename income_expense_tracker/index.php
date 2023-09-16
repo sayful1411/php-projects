@@ -94,3 +94,7 @@ while (true) {
             echo "Invalid choice. Please try again.\n";
     }
 }
+
+// Usage:
+// 1. to execute script run 
+// php index.php
